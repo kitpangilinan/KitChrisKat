@@ -4,24 +4,24 @@ I'm Chris, a passionate Web/Front-end Developer and relentless learner. My journ
 
 🛠 Technical Skills
 
-Languages & Frameworks: PHP, Laravel, HTML, CSS, Java
-UI Libraries: Tailwind CSS, Bootstrap
-Database: MySQL
+• Languages & Frameworks: PHP, Laravel, HTML, CSS, Java
+• UI Libraries: Tailwind CSS, Bootstrap
+• Database: MySQL
 
 🎓 Educational Background
 
-Bachelor of Science in Information Technology
+• Bachelor of Science in Information Technology
 
 🌍 Personal Interests
 
-Hitting the gym 🏋️‍♂️
-Gaming 🎮
-Movie marathons 🍿
-Baking 👨‍🍳
-Building legos 🧱
+• Hitting the gym 🏋️‍♂️
+• Gaming 🎮
+• Movie marathons 🍿
+• Baking 👨‍🍳
+• Building legos 🧱
 
 📬 Get in Touch
 
-Facebook: chris pangilinan
-Email: pangilinanchris23@gmail.com
-Phone: +639999030235
+• Facebook: chris pangilinan
+• Email: pangilinanchris23@gmail.com
+• Phone: +639999030235
